@@ -1,0 +1,11 @@
+{
+  "name": "Arushi AI Voice Assistant",
+  "description": "Real-time voice-to-voice AI assistant with multi-language support, emotional voice response, and smart device actions.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
